@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | Java Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpita-sahoo-blue">
+  <a href="https://www.linkedin.com/in/arpita-sahoo-4a0953356">
     <img src="https://img.shields.io/badge/LinkedIn-Arpita%20Sahoo-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:arpitasahoo795@gmail.com">
