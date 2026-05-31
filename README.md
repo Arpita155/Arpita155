@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpita-sahoo-blue">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpita%20Sahoo-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:arpitasahoo795@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
