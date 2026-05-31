@@ -9,6 +9,10 @@
   <a href="mailto:arpitasahoo795@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://leetcode.com/u/Arpita_Sahoo1/">
+    <img src="https://img.shields.io/badge/Leetcode-Contact-yellow?style=for-the-badge&logo=leetcode">
+  </a>
+  
 </p>
 
 <p align="center">
