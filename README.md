@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://leetcode.com/u/Arpita_Sahoo1/">
-    <img src="https://img.shields.io/badge/Leetcode-Contact-yellow?style=for-the-badge&logo=leetcode">
+    <img src="https://img.shields.io/badge/Leetcode-Arpita_Sahoo1-yellow?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/arpitasah9hs">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Arpita Sahoo-aqua?style=for-the-badge&logo=geeksforgeeks">
   </a>
   
 </p>
